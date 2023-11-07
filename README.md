@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shalini16/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)]
 
 ## 👾 Profile views:
 [![](https://visitcount.itsvg.in/api?id=shalinijha7&icon=2&color=6)](https://visitcount.itsvg.in) 
