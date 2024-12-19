@@ -8,9 +8,8 @@
 
 ## Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,javascript,git,react,mysql,mongodb,typescript,nodejs,expressjs,tailwindcss,nextjs,java&theme=dark)](https://skillicons.dev)
-![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=PowerBI&logoColor=black)  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,javascript,git,react,mysql,mongodb,typescript,nodejs,expressjs,tailwindcss,nextjs,java&theme=dark)](https://skillicons.dev)![Power BI](https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png)
+
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shalinijha7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
