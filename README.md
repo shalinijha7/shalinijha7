@@ -8,7 +8,7 @@
 
 ## Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,javascript,git,react,mysql,mongodb,typescript,nodejs,expressjs,tailwindcss,nextjs,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,javascript,git,react,mysql,mongodb,typescript,nodejs,expressjs,tailwindcss,nextjs,powerbi,java&theme=dark)](https://skillicons.dev)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shalinijha7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
