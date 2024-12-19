@@ -8,7 +8,7 @@
 
 ## Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,javascript,git,react,mysql,mongodb,typescript,nodejs,expressjs,tailwindcss,nextjs,java&theme=dark)](https://skillicons.dev)![Power BI](https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,javascript,git,react,mysql,mongodb,typescript,nodejs,expressjs,tailwindcss,nextjs,java&theme=dark)](https://skillicons.dev)
 
 
 ## GitHub Stats:
